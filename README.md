@@ -1,5 +1,5 @@
 
-### Hey there 
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://twitter.com/AnjaliGupta2106">
   <img align="left" alt="Anjali Gupta | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -11,18 +11,16 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=anjaligupta0621.anjaligupta0621)
 
 <br />
+
 Hi, I'm [Anjali Gupta](https://www.linkedin.com/in/anjaligupta0621), a passionate self-taught Software Developer specializing in Python Programming and Full Stack Web Development. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-<br />
-
-**Work Summary:**  
-<img src="https://github.com/anjaligupta0621/anjaligupta0621/blob/main/giphy_coder.gif" height="280px" width="280px">
+👨‍💻 **Work Summary:**  
 >Being on both sides of the spectrum, Product support being the first role made me understand the user and software requirements in general with much clarity, and using the learnings from it helped me better my thinking towards building the product as a Software Developer later.
 
->I have done my undergrad in *B.Tech* majoring in **Computer Science**. Right now, I am in my Final Semester of *MS* in **Computer Science** to pursue my interests in more depth.
+>I have done my undergrad in *B.Tech* majoring in **Computer Science**. Right now, I am in my second last semester of *MS* in **Computer Science** to pursue my interests in more depth.
 
 
-  <img align="right" alt="GIF" src="https://github.com/anjaligupta0621/anjaligupta0621/blob/main/giffy_coder.gif?raw=true" width="480" height="280" />
+  <img align="right" alt="GIF" src="https://github.com/anjaligupta0621/anjaligupta0621/blob/main/giphy_coder.gif?raw=true" width="400" height="400" />
   
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@anjaligupta0621](mailto:anjaligupta0621@gmail.com)
