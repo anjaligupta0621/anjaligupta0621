@@ -8,7 +8,7 @@
   <img align="left" alt="Anjali's LinkedIN" width="22px" src="https://i.stack.imgur.com/gVE0j.png" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=anjaligupta0621.anjaligupta0621)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=anjaligupta0621.anjaligupta0621)  -->
 
 <br />
 
