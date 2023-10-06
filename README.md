@@ -2,20 +2,20 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://twitter.com/AnjaliGupta2106">
-  <img align="left" alt="Anjali Gupta | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Anjali Gupta | Twitter" width="22px" src="https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/anjaligupta0621/">
-  <img align="left" alt="Anjali's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Anjali's LinkedIN" width="22px" src="https://i.stack.imgur.com/gVE0j.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=anjaligupta0621.anjaligupta0621)
 
 <br />
 
-Hi, I'm [Anjali Gupta](https://www.linkedin.com/in/anjaligupta0621), a passionate self-taught Software Developer specializing in Python Programming and Full Stack Web Development. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Anjali Gupta](https://www.linkedin.com/in/anjaligupta0621), a passionate self-taught Software Developer specializing in Python Programming and Full Stack Web Development. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 👨‍💻 **Work Summary:**  
->I have 2 years of experience as a Project Engineer in Wipro, where I gained an understanding of user and software requirements. Recently, I worked with the Innovation Department of my University as a Software Developer, creating a web application from scratch.
+>I have 2 years of experience as a Software Engineer (Project Engineer) in Wipro, where I gained an understanding of user and software requirements. Recently, I worked with the Innovation Department of my University as a Software Developer, creating a web application from scratch.
 
 > Currently, I am a Graduate student at the University of Florida and doing my Master's (*MS*) in **Computer Science**. I have done my undergrad in *B.Tech* majoring in **Computer Science**.
 
@@ -23,7 +23,7 @@ Hi, I'm [Anjali Gupta](https://www.linkedin.com/in/anjaligupta0621), a passionat
   
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@anjaligupta0621](mailto:anjaligupta0621@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1_fbqzvqPz6uGYVxeeHy2vDYA-1D3WE5K/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1ByeDmhIiefSV3EdcH4ARU4VwPVIaKGq3/view?usp=drive_link)
 - 📜 [Portfolio](https://anjaligupta0621.github.io/Portfolio/)
 
 **Languages and Tools:**  
